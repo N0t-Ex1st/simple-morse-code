@@ -1,2 +1,2 @@
-# simp morse code
+# Simp morse code
 Simple Morse code decrypter and encryptor
